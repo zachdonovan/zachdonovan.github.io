@@ -7,14 +7,18 @@ html {
 }
 
 h1, h2 {
+  text-align: center;
   font-family: 'Josefin Sans', sans-serif;
+  color: #E9E5CF;
 }
 
 p {
+  text-align: center;
   font-family: 'Lato', sans-serif;
+  color: #E9E5CF;
 }
 
-* {
+a, a:link, a:visited, a:hover {
   text-align: center;
   color: #E9E5CF;
 }
